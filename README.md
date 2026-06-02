@@ -1,6 +1,6 @@
-<div align="middle">
+<a href="https://ject.kr/project/10" align="middle">
 <img alt="StudyTrip" src="https://github.com/user-attachments/assets/d0616b4b-924b-4c3d-87fa-a0359e68706f">
-</div>
+</a>
 
 # 프로젝트 소개
 <div align="justify">
